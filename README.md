@@ -3,7 +3,7 @@ CentOS CA Bundle Fix
 
 ## Why?
 
-Because the default cabundle.crt that comes with CentOS is old and out of date. You can't even fetch shit from github. Unacceptable.
+Because the default ca-bundle.crt that comes with CentOS is old and out of date. You can't even fetch shit from github. Unacceptable.
 
 ## Credits
 
